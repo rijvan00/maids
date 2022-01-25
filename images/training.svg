@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="830" height="710" viewBox="0 0 830 710">
+  <defs>
+    <clipPath id="clip-Artboard_4">
+      <rect width="830" height="710"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_4" data-name="Artboard – 4" clip-path="url(#clip-Artboard_4)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="96" cy="96" r="96" transform="translate(318 227)" fill="#08197f"/>
+    <path id="Path_11" data-name="Path 11" d="M66.54,3H15.257A10.287,10.287,0,0,0,5,13.257V95.311L40.9,79.926,76.8,95.311V13.257A10.287,10.287,0,0,0,66.54,3Zm0,76.926L40.9,68.746,15.257,79.926V13.257H66.54Z" transform="translate(373.306 273.721)" fill="#fff"/>
+    <g id="Group_36" data-name="Group 36" transform="translate(286.526 446.814)">
+      <text id="TRAINING_SESSION" data-name="TRAINING SESSION" transform="translate(128.474 29.186)" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="-120.723" y="0">TRAINING SESSION</tspan></text>
+    </g>
+  </g>
+</svg>

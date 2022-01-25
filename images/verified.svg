@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="830" height="710" viewBox="0 0 830 710">
+  <defs>
+    <clipPath id="clip-Artboard_2">
+      <rect width="830" height="710"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_2" data-name="Artboard – 2" clip-path="url(#clip-Artboard_2)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="96" cy="96" r="96" transform="translate(319 227)" fill="#08197f"/>
+    <path id="Path_8" data-name="Path 8" d="M34.347,64.143,11.269,41.065l-7.859,7.8L34.347,79.805l66.412-66.412-7.8-7.8Z" transform="translate(362.836 280.179)" fill="#fff"/>
+    <g id="Group_34" data-name="Group 34" transform="translate(235.795 446.814)">
+      <text id="DOCUMENT_VERIFICATION" data-name="DOCUMENT VERIFICATION" transform="translate(179.205 29.186)" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="-167.173" y="0">DOCUMENT VERIFICATION</tspan></text>
+    </g>
+  </g>
+</svg>
